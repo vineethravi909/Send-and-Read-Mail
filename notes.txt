@@ -1,0 +1,6 @@
+platformName - android
+platformVersion - 10.0	
+deviceName - emulator-5554
+app - C:\Users\user\Desktop\Appium 1\flipkart-7-17.apk
+appActivity - com.flipkart.android.SplashActivity
+appPackage - com.flipkart.android
